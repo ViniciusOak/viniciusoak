@@ -4,18 +4,16 @@
 <a href="https://github.com/ViniciusOak">
   <img height="140em"   align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusoak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOak&layout=compact&langs_count=7&theme=dark" />
-
 </div>
 <br>
+  
 <div  align="center"> 
   
 ![Snake animation](https://github.com/ViniciusOak/ViniciusOak/blob/output/github-contribution-grid-snake.svg)
-  
-<br>
+
 </div>  
 
 <div align="center">
-
 <h1>  ## Tecnologias que eu uso no meu dia </h1>
 
 <div style="display: inline_block">
