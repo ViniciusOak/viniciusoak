@@ -4,8 +4,11 @@
 
 
 <p>
+  
 ![Oak GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusOak&show_icons=true&theme=dark)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoak&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 ## Tecnologias que eu uso no meu dia
