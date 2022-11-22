@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/ViniciusOak">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusoak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOak&layout=compact&langs_count=7&theme=dark" />
+  <img height="140em"   align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusoak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOak&layout=compact&langs_count=7&theme=dark" />
 
 </div>
 <br>
@@ -15,7 +15,8 @@
 </div>  
 
 <div align="center">
-## Tecnologias que eu uso no meu dia
+
+<h1>  ## Tecnologias que eu uso no meu dia </h1>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
