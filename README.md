@@ -1,17 +1,20 @@
-## Olá! Eu sou o Vinícius Oak!! 
-<p>
-  
-![Oak GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusOak&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoak&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Olá! Eu sou o Vinícius Oak!! </h1>
 
-</p>
+<div>
+<a href="https://github.com/ViniciusOak">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusoak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOak&layout=compact&langs_count=7&theme=dark" />
 
-<p>
+</div>
+<br>
+<div  align="center"> 
   
 ![Snake animation](https://github.com/ViniciusOak/ViniciusOak/blob/output/github-contribution-grid-snake.svg)
+  
+<br>
+</div>  
 
-</p>
-
+<div align="center">
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
