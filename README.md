@@ -12,7 +12,7 @@
   
 ![Snake animation](https://github.com/ViniciusOak/ViniciusOak/blob/output/github-contribution-grid-snake.svg)
 
-![](https://visitor-badge.glitch.me/badge?page_id=ViniciusOak.viniciusoak)  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ViniciusOak.viniciusoak)  
   
 </div>  
 <div align="center">
