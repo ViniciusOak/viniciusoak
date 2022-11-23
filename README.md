@@ -1,4 +1,8 @@
-<h1 align="center">Olá! Eu sou o Vinícius Oak!! </h1>  
+<img width=150% src= "https://capsule-render.vercel.app/api?type=waving&color=0:3cffda,100:7154af">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Vin%C3%ADcius+Oak;Be+Welcome!+:%29)
+
+
 
 <div align="center">
 <a href="https://github.com/ViniciusOak">
@@ -27,3 +31,5 @@
  	<a href="https://www.twitch.tv/oakdev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-carvalho-27925b243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+  
+  <img width=150% src= "https://capsule-render.vercel.app/api?type=waving&color=100:3cffda,0:7154af&section=footer">
