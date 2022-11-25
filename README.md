@@ -8,7 +8,10 @@
   <img height="140em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOak&layout=compact&langs_count=7&theme=aura">
 </div>
 <br>
-<div  align="center"> 
+ <div align="center">
+  <img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Round&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light'/>
+</div>
+  <div  align="center"> 
   
 ![Snake animation](https://github.com/ViniciusOak/ViniciusOak/blob/output/github-contribution-grid-snake.svg)
 
